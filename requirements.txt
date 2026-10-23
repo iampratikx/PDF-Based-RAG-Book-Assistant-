@@ -1,0 +1,50 @@
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM Providers
+langchain-openai
+langchain-mistralai
+langchain-ollama
+langchain-huggingface
+openai
+mistralai
+
+# Vector Database
+chromadb
+
+# Embedding Models
+sentence-transformers
+
+# Document Processing
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+# Text Processing
+tiktoken
+
+# Environment Variables
+python-dotenv
+
+# Data Handling
+pandas
+numpy
+
+# API
+fastapi
+uvicorn
+
+# UI
+streamlit
+
+# Utilities
+tqdm
+requests
+
+# Data Validation
+pydantic

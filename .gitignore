@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+
+chroma-db
+data/chroma-db/
+data/documents/
+Document loaders/*.pdf
